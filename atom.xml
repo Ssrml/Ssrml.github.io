@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ssrml.github.io/</id>
+    <id>https://ruoer.gitee.io/</id>
     <title>一个小站</title>
-    <updated>2020-01-26T12:25:28.261Z</updated>
+    <updated>2020-01-26T13:24:56.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ssrml.github.io/"/>
-    <link rel="self" href="https://ssrml.github.io/atom.xml"/>
+    <link rel="alternate" href="https://ruoer.gitee.io/"/>
+    <link rel="self" href="https://ruoer.gitee.io/atom.xml"/>
     <subtitle>认真对待每一个bug（特性）</subtitle>
-    <logo>https://ssrml.github.io/images/avatar.png</logo>
-    <icon>https://ssrml.github.io/favicon.ico</icon>
+    <logo>https://ruoer.gitee.io/images/avatar.png</logo>
+    <icon>https://ruoer.gitee.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 一个小站</rights>
     <entry>
         <title type="html"><![CDATA[Hello world!]]></title>
-        <id>https://ssrml.github.io/hello</id>
-        <link href="https://ssrml.github.io/hello">
+        <id>https://ruoer.gitee.io/hello</id>
+        <link href="https://ruoer.gitee.io/hello">
         </link>
         <updated>2020-01-26T09:29:01.000Z</updated>
     </entry>
