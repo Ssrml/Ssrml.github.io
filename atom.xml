@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ssrml.github.io/</id>
+    <title>菜单</title>
+    <updated>2020-01-26T11:37:46.732Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ssrml.github.io/"/>
+    <link rel="self" href="https://ssrml.github.io/atom.xml"/>
+    <subtitle>认真对待每一个bug（特性）</subtitle>
+    <logo>https://ssrml.github.io/images/avatar.png</logo>
+    <icon>https://ssrml.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 菜单</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello world!]]></title>
+        <id>https://ssrml.github.io/hello</id>
+        <link href="https://ssrml.github.io/hello">
+        </link>
+        <updated>2020-01-26T09:29:01.000Z</updated>
+    </entry>
+</feed>
