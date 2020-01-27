@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ruoer.gitee.io/</id>
+    <id>https://ruoer.gitee.io/oner/</id>
     <title>一个小站</title>
-    <updated>2020-01-27T01:05:22.164Z</updated>
+    <updated>2020-01-27T01:09:50.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ruoer.gitee.io/"/>
-    <link rel="self" href="https://ruoer.gitee.io/atom.xml"/>
+    <link rel="alternate" href="https://ruoer.gitee.io/oner/"/>
+    <link rel="self" href="https://ruoer.gitee.io/oner/atom.xml"/>
     <subtitle>认真对待每一个bug（特性）</subtitle>
-    <logo>https://ruoer.gitee.io/images/avatar.png</logo>
-    <icon>https://ruoer.gitee.io/favicon.ico</icon>
+    <logo>https://ruoer.gitee.io/oner/images/avatar.png</logo>
+    <icon>https://ruoer.gitee.io/oner/favicon.ico</icon>
     <rights>All rights reserved 2020, 一个小站</rights>
     <entry>
         <title type="html"><![CDATA[Hello world!]]></title>
-        <id>https://ruoer.gitee.io/hello</id>
-        <link href="https://ruoer.gitee.io/hello">
+        <id>https://ruoer.gitee.io/oner/hello</id>
+        <link href="https://ruoer.gitee.io/oner/hello">
         </link>
         <updated>2020-01-26T09:29:01.000Z</updated>
     </entry>
